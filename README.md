@@ -1,4 +1,4 @@
-![progress-banner](https://codecrafters.io/landing/images/default_progress_banners/sqlite.png)
+[![progress-banner](https://app.codecrafters.io/progress/sqlite/410f4474-5e46-4c00-9929-4a604df6695d)](https://app.codecrafters.io/users/caovanbi235?r=2qF)
 
 This is a starting point for Ruby solutions to the
 ["Build Your Own SQLite" Challenge](https://codecrafters.io/challenges/sqlite).
